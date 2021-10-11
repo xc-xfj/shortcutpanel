@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/deepin/builtin/light/icons/bluetooth_normal_36px.svg</file>
+        <file>icons/deepin/builtin/light/icons/dnd_normal_36px.svg</file>
+        <file>icons/deepin/builtin/light/icons/hotspot_normal_36px.svg</file>
+        <file>icons/deepin/builtin/light/icons/lock_normal_36px.svg</file>
+        <file>icons/deepin/builtin/light/icons/rotation_normal_36px.svg</file>
+        <file>icons/deepin/builtin/light/icons/shutdown_24px.svg</file>
+        <file>icons/deepin/builtin/light/icons/wifi_normal_36px.svg</file>
+        <file>icons/deepin/builtin/light/icons/mediaplayer_prev.svg</file>
+        <file>icons/deepin/builtin/light/icons/mediaplayer_play.svg</file>
+        <file>icons/deepin/builtin/light/icons/mediaplayer_pause.svg</file>
+        <file>icons/deepin/builtin/light/icons/mediaplayer_next.svg</file>
+    </qresource>
+</RCC>
