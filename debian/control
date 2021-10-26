@@ -1,0 +1,31 @@
+Source: dte-home
+Section: admin
+Priority: optional
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Build-Depends:
+ debhelper (>= 9),
+ cmake,
+ pkg-config,
+ qtdeclarative5-dev,
+ qttools5-dev-tools,
+ libdtkdeclarative-dev,
+ libdtkgui5.5-dev,
+ libdtkcore5.5-dev,
+ libgsettings-qt-dev,
+ libpam0g-dev,
+ libgtest-dev,
+ qml-module-qtgraphicaleffects,
+ qtmultimedia5-dev,
+ libkf5bluezqt-dev,
+ extra-cmake-modules
+Standards-Version: 3.9.8
+Homepage: http://www.deepin.org
+
+Package: dte-home
+Architecture: any
+Depends:
+ ${shlibs:Depends},
+ ${misc:Depends},
+ qml-module-qtquick-shapes (>= 5.11.3)
+Description: Simple description
+ A detailed description.
